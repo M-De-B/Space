@@ -1,3 +1,2 @@
 # Space
-Console game: Space. Создание консольной игры с нуля.
-Большая задача от JavaRush.
+Console game: Space. Разработка консольной игры.
